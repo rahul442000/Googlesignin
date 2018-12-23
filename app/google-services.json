@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842633643188",
+    "firebase_url": "https://signin-a3a62.firebaseio.com",
+    "project_id": "signin-a3a62",
+    "storage_bucket": "signin-a3a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842633643188:android:f10f29152cd16a32",
+        "android_client_info": {
+          "package_name": "com.cetpainfotech.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842633643188-dduk8utsg5scphgesl7p9n092movosv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cetpainfotech.googlesignin",
+            "certificate_hash": "883f59421d747e56bd7f6ef7f4aa5037078f2e8e"
+          }
+        },
+        {
+          "client_id": "842633643188-9bv4cnr0875b6lc5vesan8imbeveku63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj1544Ec8YJdZl18_GHBukiXvdYYFvoyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842633643188-9bv4cnr0875b6lc5vesan8imbeveku63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
